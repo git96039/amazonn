@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b8a0e7c-0614-45af-808a-6f2903ad295d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../appli/Interview/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../appli/Interview/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../appli/Interview/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../appli/Interview/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../appli/Interview/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../appli/Interview/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../appli/Interview/src/test/java/org/example/step.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../appli/Interview/src/test/java/org/example/toOpenChrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../appli/Interview/xpath.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../appli/untitled1/naukris11052023/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Blaze/src/test/java/openSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aa/aa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kalyan/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kalyan/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kalyan/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kalyan/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kalyan/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kalyan/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kalyan/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kalyan/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kalyan/src/main/java/test/Common.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kalyan/src/test/java/Cache/Cache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kalyan/src/test/java/com/naukri/cloud/Steps/Steps/BeforeTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kalyan/src/test/java/com/naukri/cloud/Steps/Steps/CucumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kalyan/src/test/java/com/naukri/cloud/Steps/Steps/StepDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kalyan/src/test/java/com/naukri/cloud/Steps/pageactions/loginpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kalyan/src/test/java/com/naukri/cloud/Steps/pageobjects/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kalyan/src/test/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kalyan/src/test/resources/features/loginPage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kalyan/src/test/resources/objectRepository/naukariLoginPage.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleProject/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleProject/src/test/Resources/features/first.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleProject/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/free06-01-2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__com_beust_jcommander_1_78.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__com_github_docker_java_docker_java_3_2_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__com_github_docker_java_docker_java_api_3_2_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__com_github_docker_java_docker_java_core_3_2_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__com_github_docker_java_docker_java_transport_3_2_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__com_github_docker_java_docker_java_transport_httpclient5_3_2_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__com_google_auto_auto_common_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__com_google_auto_service_auto_service_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__com_google_auto_service_auto_service_annotations_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__com_google_code_gson_gson_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__com_google_guava_guava_31_1_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__com_typesafe_netty_netty_reactive_streams_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__dev_failsafe_failsafe_3_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_cucumber_create_meta_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_cucumber_cucumber_core_6_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_cucumber_cucumber_expressions_10_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_cucumber_cucumber_gherkin_7_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_cucumber_cucumber_gherkin_messages_6_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_cucumber_cucumber_java_6_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_cucumber_cucumber_junit_6_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_cucumber_cucumber_plugin_7_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_cucumber_datatable_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_cucumber_docstring_6_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_cucumber_html_formatter_13_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_cucumber_messages_15_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_cucumber_tag_expressions_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_netty_netty_buffer_4_1_78_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_netty_netty_codec_4_1_78_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_78_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_60_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_netty_netty_common_4_1_78_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_netty_netty_handler_4_1_78_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_60_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_netty_netty_resolver_4_1_78_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_netty_netty_transport_4_1_78_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_netty_netty_transport_classes_epoll_4_1_78_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_netty_netty_transport_classes_kqueue_4_1_78_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_78_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_60_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_4_1_78_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_osx_x86_64_4_1_60_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_78_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_1_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_opentelemetry_opentelemetry_context_1_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_logging_1_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_1_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_common_1_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_1_16_0_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_spi_1_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_logs_1_16_0_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_metrics_1_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_trace_1_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_opentelemetry_opentelemetry_semconv_1_16_0_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__io_ous_jtoml_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__junit_junit_4_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__net_java_dev_jna_jna_5_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_apache_commons_commons_compress_1_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_apache_httpcomponents_client5_httpclient5_5_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_h2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_asynchttpclient_async_http_client_2_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_asynchttpclient_async_http_client_netty_utils_2_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_64.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_64.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_brotli_dec_0_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_checkerframework_checker_qual_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_picocontainer_picocontainer_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chromium_driver_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v102_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v103_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v104_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v108_4_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v85_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_http_4_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_http_jdk_client_4_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_json_4_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_springframework_spring_aop_5_3_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_springframework_spring_beans_5_3_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_springframework_spring_context_5_3_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_springframework_spring_core_5_3_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_springframework_spring_expression_5_3_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_springframework_spring_web_5_3_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_testng_testng_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_webjars_jquery_3_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/libraries/Maven__org_yaml_snakeyaml_1_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/free06-01-2023/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scratch by hemadri/xtrazancaproject/.idea/xtrazancaproject.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QySF0sMymetlsJBaaxv960x3Kx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b8a0e7c-0614-45af-808a-6f2903ad295d" name="Changes" comment="" />
+      <created>1686324223627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686324223627</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
